@@ -1,10 +1,10 @@
 //hey this is a comment
 console.log("helloworld")
-console.log("helloworld") //2nd time!
 
 
-function main(){
-  return null;
+
+function main() {
+    console.log(1)
 }
 main()
-//console.log(main)
+    //console.log(main)
